@@ -17,16 +17,16 @@
              <a class="nav-link" href="#">Page 1</a>
             </router-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link to="/page2">
               <a class="nav-link" href="#">Page 2</a>
             </router-link>
-          </li>
-          <li class="nav-item">
+          </li> -->
+          <!-- <li class="nav-item">
             <router-link to="/page3">
               <a class="nav-link" href="#">Page 3</a>
             </router-link>
-          </li>
+          </li> -->
         </ul>
       </div>
     </nav>  
