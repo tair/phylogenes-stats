@@ -13,7 +13,7 @@
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "echarts": "^4.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10",
     "vue-chartjs": "^3.4.2",
     "vue-echarts": "^4.0.3",
